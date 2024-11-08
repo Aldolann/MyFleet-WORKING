@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+aws.config.json
+.aws/
+credentials.json
+*.pem
+*.key
+.DS_Store
+node_modules/
+dist/
